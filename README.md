@@ -14,11 +14,17 @@ O problema do caixeiro viajante é um problema clássico da computação. Ele co
 
 Na figura abaixo é possível observar uma solução inicial aleatória para o problema do caixeiro viajante. A solução é representada por um conjunto de cidades (pontos) e um caminho que o caixeiro viajante deve percorrer (linha). A solução inicial não é a melhor solução, pois o caminho percorrido pelo caixeiro viajante é muito longo.
 
-![Solução inicial](Apresentação/img/Solucao1.png)
+<h13 align="center">
+  <p align="center">Solução Aleatória</p>
+  <a><img src="https://github.com/TheMatheusLs/Minicurso_Matheus/blob/main/Apresenta%C3%A7%C3%A3o/img/Solu%C3%A7%C3%A3o1.png" alt="Solução 1"></a>
+</h3>
 
 Através de um algoritmo genético é possível encontrar uma solução melhor para o problema. A solução encontrada pelo algoritmo genético é representada na figura abaixo. É possível observar que o caminho percorrido pelo caixeiro viajante é menor do que o caminho percorrido na solução inicial.
 
-![Solução final](Apresentação/img/SolucaoFinal.png)
+<h3 align="center">
+  <p align="center">Solução Final</p>
+  <a><img src="https://github.com/TheMatheusLs/Minicurso_Matheus/blob/main/Apresenta%C3%A7%C3%A3o/img/Solu%C3%A7%C3%A3oFinal.png" alt="Solução Final"></a>
+</h3>
 
 ## Código
 
