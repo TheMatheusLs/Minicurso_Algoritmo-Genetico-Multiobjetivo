@@ -40,6 +40,10 @@ Proponho o seguinte exercício: acesse o código do Jupyter Notebook na versão 
 
 Escreva um código para resolver o problema do caixeiro viajante para 10 cidades utilizando força bruta, ou seja, testando todas as opções (Pode manter a velocidade mínima e máxima iguais). Compare o tempo de execução do algoritmo genético com o tempo de execução do algoritmo de força bruta e tire suas conclusões.
 
+### Agradecimentos
+
+[Tutorials with Gary](https://www.youtube.com/@TutorialsWithGary/videos)  pelas imagens e ideia do problema para a aplicação.
+
 # Redes Sociais
 
 <p align="left">
